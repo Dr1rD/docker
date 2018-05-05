@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 MAINTAINER rui dong "plusdr1rd@gmail.com"
 RUN apt-get update
 RUN apt-get install -y nginx
